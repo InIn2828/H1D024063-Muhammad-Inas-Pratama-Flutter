@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="220" viewBox="0 0 940 220" role="img" aria-labelledby="title description">
+  <title id="title">Output program queue di PowerShell</title>
+  <desc id="description">Terminal PowerShell menampilkan antrean Andi, Budi, Citra; Andi dilayani dan Budi menjadi berikutnya.</desc>
+  <rect width="940" height="220" fill="#171717"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#e6e6e6">
+    <text x="24" y="34"><tspan fill="#d4d4d4">PS C:\Kuliah\Praktikum Pemmob&gt; </tspan><tspan fill="#f2d85c">dart run queue.dart</tspan></text>
+    <text x="24" y="66">Antrean (3 orang, depan -&gt; belakang): Andi -&gt; Budi -&gt; Citra</text>
+    <text x="24" y="92">Berikutnya: Andi</text>
+    <text x="24" y="118">Dilayani: Andi</text>
+    <text x="24" y="144">Sisa antrean: Budi -&gt; Citra</text>
+    <text x="24" y="170">Berikutnya: Budi</text>
+    <text x="24" y="202" fill="#d4d4d4">PS C:\Kuliah\Praktikum Pemmob&gt;</text>
+  </g>
+  <rect x="390" y="185" width="12" height="20" fill="#d4d4d4"/>
+</svg>
